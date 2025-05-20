@@ -32,7 +32,7 @@ SECRET_KEY = os.environ.get("SECRET_KEY")
 DEBUG = False
 
 ALLOWED_HOSTS = ['8000-nielmc-django-project-0kylrta3cs.us2.codeanyapp.com',
-                 '.herokuapp.com','127.0.0.1'
+                 '.herokuapp.com'
 ]
 
 
